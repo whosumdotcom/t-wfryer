@@ -1,0 +1,36 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T03:59:16Z",
+  "IdClaims": [
+    {
+      "Claim": "t:wfryer"
+    },
+    {
+      "Claim": "mdon:@wfryer@mastodon.cloud"
+    },
+    {
+      "Claim": "yt:@wesleyfryer"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "deccc773b9832ed4bf0d8508",
+    "Timestamp": "2023-04-06T04:15:47Z",
+    "Signature": "2ad26197b2629150ad3f0eb336d82ab36533240d1f41830306e407038f01db7ea327a2220462ca19e1665968ad2f992a1a06e880423d8ab2ae45a4ebb4be06ccb3fbdf0ef1a334d8f99cfb007742c0b4feb91b5b169cd23b07f4da87a53a864f5eda44cfedc21705044e351075cd47f981720084cd8c1dce8fc6913a713758df30f9b3915beedad3512ab10b8985a6159b2ec1cbac51db42d0460f6ed8032a6e4c474bb5811bfde3776e8e8fc1e723bd223eb190700528f8d266988faf24038d10a2e0d40b37a611141b2166c11593474571bdd68fe48b45003043cf761e6cf3a078b5e8ad595010b6530568cb0b8b90b0a79ead48a16969d73a24a861ca3f08"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "bdc233572bc554040ee51dfa40ae2da61916341ee12f36c953b9750218c92f4f",
+  "ContentToHash": "v1|mdon:@wfryer@mastodon.cloud,pat:no-account,post:no-account,spout:no-account,t:wfryer,yt:@wesleyfryer|2023-04-06T03:59:16Z"
+}
